@@ -1,0 +1,36 @@
+.carousel-item{
+    height: 70vh;
+}
+
+.carousel-item img{
+    height: 70vh;
+    object-fit: cover;
+}
+
+.section-statistics{
+    margin-top: -2rem;
+    position: relative;
+}
+
+.statistic-item{
+    background: linear-gradient(37deg, #0072ff 0%, #0B5ED7 100%);
+    color: #fff;
+    padding: 1rem 0;
+}
+
+.container{
+     height: 70vh;
+}
+
+.about,
+.service {
+	padding-bottom: 100px;
+}
+
+.about p {
+	color: #666;
+	word-spacing: 2px;
+	line-height: 25px;
+	margin-bottom: 20px;
+	text-align: center;
+}
